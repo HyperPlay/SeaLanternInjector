@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+author: HyperPlay
+main: ${project.groupId}.${project.artifactId}Plugin
+load: STARTUP

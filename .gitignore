@@ -1,0 +1,24 @@
+# Remove DMCA'd CraftBukkit 1.7.9/10 jar.
+/libs/CraftBukkit17.jar
+
+# we use maven!
+/build.xml
+
+# maven
+/target
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+/out
